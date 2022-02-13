@@ -19,7 +19,7 @@
     "eslint-config-defaults": "^9.0.0",
     "fs-readdir-recursive": "^1.1.0",
     "jasmine": "^2.8.0",
-    "sourcemap-lookup": "0.0.3",
+    "sourcemap-lookup": "0.0.5",
     "testem": "^1.18.4",
     "webpack": "^3.8.1",
     "webpack-dev-middleware": "^1.12.0"
